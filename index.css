@@ -65,4 +65,11 @@ hr {
   height: 39px;
   background: #273549;
   border-radius: 6px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 38px;
+  text-align: center;
+  color: #55f991;
 }
